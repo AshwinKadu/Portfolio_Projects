@@ -5,8 +5,8 @@
 ### Requirements
 
 * Data source for the project -  [https://www.kaggle.com/datasets/diyashmi/us-accidents-dec2021]
-* Coded in - Google Colab
-* Libraries used - opendatasets, Pandas, Matplotlib, Seaborn, folium
+* Coding platform - Google Colab
+* Libraries  - opendatasets, Pandas, Matplotlib, Seaborn, folium
 
 ### Findings
 
